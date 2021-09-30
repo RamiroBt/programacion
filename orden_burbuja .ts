@@ -1,5 +1,5 @@
 function orden_burbuja () {
-   let lista = [19, 23, 4, 6];
+   let lista: number = [19, 23, 4, 6];
    let i : number = 0;
    let n = lista.length - 1;
    let k: number = 0;
